@@ -1,0 +1,8 @@
+* Create a GUI-version of this program.
+
+* Allow users to enter their own lap-distances.
+
+* Do input checking.
+
+* Ask a user if he wants to write the results to a file, and if he wants
+  to calculate other laptimes.
